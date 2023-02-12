@@ -1,1 +1,1 @@
-# gas-second
+# GASの練習リポジトリ
